@@ -36,7 +36,6 @@ The output file, days_active_first_28_days_after_registration_predictions.csv, s
 
 ### Example format:
 
-user_id,predicted_days_active_first_28_days_after_registration
-12345,15
-67890,8
-...
+![image](https://github.com/user-attachments/assets/c167c984-a3f4-4a5a-941c-c2fd183e02de)
+
+
