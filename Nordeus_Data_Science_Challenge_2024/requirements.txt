@@ -2,12 +2,14 @@ pandas
 numpy
 scikit-learn
 mlflow
-dvc
 fastapi
 uvicorn
 docker
-great_expectations
-feast
 prometheus-client
 grafana
 pytest
+ydata-profiling
+ydata-profiling[notebook]
+sweetviz
+matplotlib
+seaborn
