@@ -9,7 +9,16 @@ prometheus-client
 grafana
 pytest
 ydata-profiling
-ydata-profiling[notebook]
 sweetviz
 matplotlib
 seaborn
+xgboost
+lightgbm
+dask[dataframe]
+optuna
+shap
+tensorflow
+statsmodels
+joblib
+ipywidgets
+jupyter
