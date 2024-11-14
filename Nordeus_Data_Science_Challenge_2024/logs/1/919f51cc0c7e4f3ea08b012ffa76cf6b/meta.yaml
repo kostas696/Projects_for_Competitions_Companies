@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/1/919f51cc0c7e4f3ea08b012ffa76cf6b/artifacts
+end_time: 1731543074643
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 919f51cc0c7e4f3ea08b012ffa76cf6b
+run_name: Gradient_Boosting
+run_uuid: 919f51cc0c7e4f3ea08b012ffa76cf6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731542994986
+status: 3
+tags: []
+user_id: User

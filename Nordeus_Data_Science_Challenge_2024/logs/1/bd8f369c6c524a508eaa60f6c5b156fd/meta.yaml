@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/1/bd8f369c6c524a508eaa60f6c5b156fd/artifacts
+end_time: 1731538926644
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd8f369c6c524a508eaa60f6c5b156fd
+run_name: Stacking_Regressor
+run_uuid: bd8f369c6c524a508eaa60f6c5b156fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731537250382
+status: 3
+tags: []
+user_id: User

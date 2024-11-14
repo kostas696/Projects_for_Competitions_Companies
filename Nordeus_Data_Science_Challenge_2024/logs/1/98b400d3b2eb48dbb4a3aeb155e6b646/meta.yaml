@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/1/98b400d3b2eb48dbb4a3aeb155e6b646/artifacts
+end_time: 1731538927512
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98b400d3b2eb48dbb4a3aeb155e6b646
+run_name: Feedforward_Neural_Network
+run_uuid: 98b400d3b2eb48dbb4a3aeb155e6b646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731538927381
+status: 4
+tags: []
+user_id: User

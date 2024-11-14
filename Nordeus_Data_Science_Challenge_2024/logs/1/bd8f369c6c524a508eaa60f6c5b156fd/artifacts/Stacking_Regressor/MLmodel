@@ -1,0 +1,11 @@
+artifact_path: Stacking_Regressor
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 1.30.1
+model_uuid: fec7f943114641348e02d33edcf59ec1
+run_id: bd8f369c6c524a508eaa60f6c5b156fd
+utc_time_created: '2024-11-13 23:01:58.394145'
