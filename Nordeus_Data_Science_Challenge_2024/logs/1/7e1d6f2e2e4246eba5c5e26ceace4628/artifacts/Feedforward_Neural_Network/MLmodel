@@ -1,0 +1,17 @@
+artifact_path: Feedforward_Neural_Network
+flavors:
+  keras:
+    code: null
+    data: data
+    keras_module: tensorflow_core.keras
+    keras_version: 2.2.4-tf
+    save_format: tf
+  python_function:
+    data: data
+    env: conda.yaml
+    loader_module: mlflow.keras
+    python_version: 3.7.12
+mlflow_version: 1.30.1
+model_uuid: d1d639e58908457a80b0a07acf33b274
+run_id: 7e1d6f2e2e4246eba5c5e26ceace4628
+utc_time_created: '2024-11-16 10:45:25.884802'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/1/b58e36ece83147839e8fd37db244a3b4/artifacts
+end_time: 1731688501085
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b58e36ece83147839e8fd37db244a3b4
+run_name: Ridge_Regression
+run_uuid: b58e36ece83147839e8fd37db244a3b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731688491756
+status: 3
+tags: []
+user_id: User

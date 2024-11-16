@@ -1,0 +1,17 @@
+artifact_path: Voting_Regressor
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.7.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 1.30.1
+model_uuid: 6b8e81d8b4714bc1b632ee862d5434a5
+run_id: 30f78612a90a4171bb191a0ad12e0b71
+utc_time_created: '2024-11-15 16:52:22.109779'

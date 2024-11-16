@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/1/54269f16231f43dfb741c1c1d50a7d9d/artifacts
+end_time: 1731752292720
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 54269f16231f43dfb741c1c1d50a7d9d
+run_name: Linear_Regression
+run_uuid: 54269f16231f43dfb741c1c1d50a7d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731752282312
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/1/66607dbe024748bf92f4729f393fb737/artifacts
+end_time: 1731688847565
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 66607dbe024748bf92f4729f393fb737
+run_name: LightGBM
+run_uuid: 66607dbe024748bf92f4729f393fb737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731688824042
+status: 3
+tags: []
+user_id: User

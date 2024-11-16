@@ -1,0 +1,17 @@
+artifact_path: Lasso_Regression
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.7.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 1.30.1
+model_uuid: 776190d64875412792f01f41b9000e3e
+run_id: 9b2a6f80ed324054840fced1f3c5dd1a
+utc_time_created: '2024-11-15 19:28:11.125662'
