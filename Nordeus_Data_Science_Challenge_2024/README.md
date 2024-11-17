@@ -38,4 +38,27 @@ The output file, days_active_first_28_days_after_registration_predictions.csv, s
 
 ![image](https://github.com/user-attachments/assets/c167c984-a3f4-4a5a-941c-c2fd183e02de)
 
+## Technologies and Tools Used
+- Programming Language: Python
+- Libraries: Pandas, NumPy, Scikit-learn, LightGBM, XGBoost, TensorFlow, Optuna, SHAP
+- Experiment Tracking: MLflow
+- Visualization: Matplotlib, Seaborn, SHAP
+
+## Results
+- The best-performing model was the Feedforward Neural Network (FFNN), which achieved a Mean Absolute Error (MAE) of 5.41.
+- Among traditional machine learning models, LightGBM performed the best, with an MAE of 5.83.
+- The ensemble models (Stacking and Voting Regressors) provided a slight boost in performance but did not surpass the FFNN model.
+- SHAP analysis indicated that features related to user engagement (e.g., playtime, days_active_lifetime and avg_stars_top_3_players) were the most influential in predicting user activity.
+
+## Future Work
+- Incorporate More Features: Include additional features from user activity logs or external sources (e.g., social media interactions) to improve prediction accuracy.
+- Automated Retraining: Implement an MLOps pipeline for automated model retraining based on new data, ensuring the model remains accurate over time.
+- Real-time Prediction Service: Deploy the model as an API service using FastAPI or Flask for real-time predictions and integration with Nordeus' production systems.
+- Anomaly Detection: Add an anomaly detection module to identify unusual user behavior that may affect predictions.
+
+## Key Takeaways
+- The Feedforward Neural Network (FFNN) achieved the best performance, highlighting the importance of non-linear relationships in the data.
+- LightGBM provided strong interpretability, making it a valuable model for understanding key drivers of user activity.
+- The project demonstrated the effectiveness of hyperparameter tuning (Optuna) and feature selection in improving model accuracy.
+- Future enhancements could focus on additional data sources and the implementation of real-time prediction capabilities.
 
