@@ -45,8 +45,8 @@ The output file, days_active_first_28_days_after_registration_predictions.csv, s
 - Visualization: Matplotlib, Seaborn, SHAP
 
 ## Results
-- The best-performing model was the Feedforward Neural Network (FFNN), which achieved a Mean Absolute Error (MAE) of 5.41.
-- Among traditional machine learning models, LightGBM performed the best, with an MAE of 5.83.
+- The best-performing model was the Feedforward Neural Network (FFNN), which achieved a Mean Absolute Error (MAE) of 5.45.
+- Among traditional machine learning models, LightGBM performed the best, with an MAE of 5.95.
 - The ensemble models (Stacking and Voting Regressors) provided a slight boost in performance but did not surpass the FFNN model.
 - SHAP analysis indicated that features related to user engagement (e.g., playtime, days_active_lifetime and avg_stars_top_3_players) were the most influential in predicting user activity.
 
