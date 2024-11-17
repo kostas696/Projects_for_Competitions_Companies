@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/1/2acd6b5dc8a447bfa046255022a6ac2b/artifacts
+end_time: 1731784365640
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2acd6b5dc8a447bfa046255022a6ac2b
+run_name: XGBoost
+run_uuid: 2acd6b5dc8a447bfa046255022a6ac2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731784326215
+status: 3
+tags: []
+user_id: User

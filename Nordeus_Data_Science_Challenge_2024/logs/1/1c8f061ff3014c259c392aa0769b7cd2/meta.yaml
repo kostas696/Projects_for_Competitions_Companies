@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/1/1c8f061ff3014c259c392aa0769b7cd2/artifacts
+end_time: 1731784681948
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c8f061ff3014c259c392aa0769b7cd2
+run_name: Voting_Regressor
+run_uuid: 1c8f061ff3014c259c392aa0769b7cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731784451215
+status: 3
+tags: []
+user_id: User

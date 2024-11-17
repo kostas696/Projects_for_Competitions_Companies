@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/2/370818e58bcb40259e7afbf6c1f9746b/artifacts
+end_time: 1731795024394
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 370818e58bcb40259e7afbf6c1f9746b
+run_name: Best_Hyperparameters
+run_uuid: 370818e58bcb40259e7afbf6c1f9746b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731795023475
+status: 4
+tags: []
+user_id: User
