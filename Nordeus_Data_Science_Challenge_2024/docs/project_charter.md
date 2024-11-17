@@ -31,8 +31,6 @@ The purpose of this project is to enhance Nordeus' ability to re-engage users wh
 ## Key Stakeholders
 - Project Sponsor: Nordeus Data Science Team
 - Project Manager: Konstantinos Soufleros
-- Data Science Team: Machine Learning Engineers, Data Analysts
-- Product Team: Marketing and User Engagement Specialists
 - End Users: Re-registered players of Top Eleven
 
 ## Deliverables
