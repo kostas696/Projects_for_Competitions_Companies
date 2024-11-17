@@ -1,37 +1,43 @@
-# Project Charter: Nordeus Data Science Challenge - Predicting User Activity
+# Project Charter: Nordeus Data Science Challenge 2024
+## Project Title
+Predicting User Activity for Enhanced User Retention in Top Eleven Mobile Game
 
-## 1. Project Title
-Predicting User Activity for Nordeus - 2024 Job Fair Challenge
+## Project Overview
+This project aims to build a predictive model for forecasting user activity in the first 28 days after users re-register to play Top Eleven, a popular mobile game developed by Nordeus. By analyzing historical gameplay data and re-registration information, the project seeks to provide actionable insights that can help improve user retention and engagement for returning players.
 
-## 2. Project Background
-Nordeus, a leader in mobile gaming, aims to deepen engagement and improve retention for its users. Specifically, returning players—those who uninstall and later re-register—offer a unique opportunity for re-engagement. By predicting the level of activity these users will display in the first 28 days post re-registration, Nordeus can craft tailored content and user experiences. This project aligns with Nordeus' commitment to providing personalized experiences and retaining its user base by identifying patterns in returning users’ behavior.
+## Project Purpose
+The purpose of this project is to enhance Nordeus' ability to re-engage users who have uninstalled the game and later re-registered. Accurately predicting user activity will enable the company to tailor personalized experiences and optimize marketing strategies, leading to improved player retention and a better overall user experience.
 
-## 3. Business Objective
-Goal: Increase user retention by tailoring experiences based on predicted activity levels of re-registered players.
+## Project Objectives
+- Develop a Predictive Model: Create a robust model that forecasts the number of active days during the first 28 days after re-registration based on historical and re-registration data.
 
-Objectives:
-- Improve Retention: Retaining re-registered users by predicting their future activity and offering tailored experiences based on their engagement patterns.
-- Personalized User Experience: Enable targeted marketing and content development by identifying users likely to be highly engaged, allowing Nordeus to optimize their experience within the game.
-By understanding returning players' behavior, Nordeus can enhance player satisfaction, extending their gaming life and increasing potential in-app engagement.
+- Enhance User Retention Strategies: Provide insights to help Nordeus design targeted re-engagement strategies and personalized content to boost retention of returning players.
 
-## 4. Technical Objective
-Goal: Develop a robust and scalable machine learning pipeline to support ongoing model training, deployment, and monitoring within an MLOps framework.
+- Deliver Actionable Insights: Offer data-driven recommendations for Nordeus’ marketing and product teams to better understand the needs and behaviors of re-registered users.
 
-Objectives:
-- Data Processing Pipeline: Create a scalable pipeline to handle and preprocess incoming data from multiple sources, ensuring data quality and consistency.
-- Feature Engineering and Storage: Develop engineered features to capture user behavior, and store these features in a manner that supports fast access and reuse.
-- Model Training and Experiment Tracking: Implement a system for training and evaluating models using tracking tools like MLflow for comprehensive experiment tracking and model comparison.
-- Deployment and Monitoring: Deploy the model in a production environment, using an API to serve predictions. Establish monitoring to track model performance, and detect issues such as data drift over time.
-- Retraining Mechanism: Establish a manual retraining process based on performance monitoring rather than automated drift detection, ensuring the model remains relevant as user behaviors and app updates evolve.
+## Scope
+### In-Scope:
+- Analysis of historical gameplay data and re-registration data.
+- Development of machine learning models, including deep learning models, to predict user activity.
+- Hyperparameter tuning and model optimization using tools like Optuna.
+- Model evaluation using Mean Absolute Error (MAE) as the primary metric.
+- Delivery of a CSV file with predictions for test data.
+- Recommendations for improving user retention based on model insights.
+### Out of Scope:
+- Real-time deployment of the model in production.
+- Integration with Nordeus’ backend systems for automated predictions.
+- Analysis of external data sources beyond the provided datasets.
 
-## 5. Success Metrics
-The project's success will be measured through a blend of accuracy, interpretability, and scalability metrics to ensure both business and technical goals are met.
+## Key Stakeholders
+- Project Sponsor: Nordeus Data Science Team
+- Project Manager: Konstantinos Soufleros
+- Data Science Team: Machine Learning Engineers, Data Analysts
+- Product Team: Marketing and User Engagement Specialists
+- End Users: Re-registered players of Top Eleven
 
-Key Performance Indicators:
-- Mean Absolute Error (MAE): Aim to achieve a low MAE for accurate predictions on the number of active days for returning users.
-- Model Interpretability: Ensure the model is interpretable, allowing Nordeus' stakeholders to understand the primary drivers behind predicted activity levels.
-- Scalability and Robustness:
-Ensure the deployment is stable and can handle real-time inference for large user volumes.
-Demonstrate adaptability of the pipeline to integrate new data sources and adapt to changes in user behavior.
-- Pipeline Efficiency: Measure processing time from data ingestion to prediction, aiming for minimal latency to support potential real-time applications.
-By achieving these success metrics, the project will support Nordeus in delivering a personalized gaming experience and improving user retention through data-driven insights.
+## Deliverables
+- Predictive Model: A tuned machine learning model capable of forecasting user activity for the first 28 days post re-registration.
+- Submission File: A CSV file containing the predictions for the test dataset.
+- Analysis Report: A comprehensive report detailing the data analysis, modeling approach, feature importance, and key insights.
+- Documentation: Complete project documentation, including a README file and a detailed explanation of the modeling process.
+- Recommendations: Actionable insights for Nordeus’ marketing and development teams to enhance user retention strategies.
