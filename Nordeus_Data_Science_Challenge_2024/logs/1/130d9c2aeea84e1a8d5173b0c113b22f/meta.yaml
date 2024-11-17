@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/1/130d9c2aeea84e1a8d5173b0c113b22f/artifacts
+end_time: 1731862689518
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 130d9c2aeea84e1a8d5173b0c113b22f
+run_name: Random_Forest
+run_uuid: 130d9c2aeea84e1a8d5173b0c113b22f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731862545290
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/2/0283eadd31b54286b41fb878f3720c8a/artifacts
+end_time: 1731871444702
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0283eadd31b54286b41fb878f3720c8a
+run_name: Tuned_LightGBM_Interpretability
+run_uuid: 0283eadd31b54286b41fb878f3720c8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731871414544
+status: 3
+tags: []
+user_id: User

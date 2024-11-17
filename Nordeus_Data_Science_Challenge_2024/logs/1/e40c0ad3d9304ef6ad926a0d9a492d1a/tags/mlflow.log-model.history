@@ -1,0 +1,1 @@
+[{"run_id": "e40c0ad3d9304ef6ad926a0d9a492d1a", "artifact_path": "Stacking_Regressor", "utc_time_created": "2024-11-17 17:20:36.922431", "flavors": {"sklearn": {"pickled_model": "model.pkl", "sklearn_version": "1.0.2", "serialization_format": "cloudpickle", "code": null}}, "model_uuid": "e8a8e0ef59444a52a7bf6b8e16c22981", "mlflow_version": "1.30.1"}]

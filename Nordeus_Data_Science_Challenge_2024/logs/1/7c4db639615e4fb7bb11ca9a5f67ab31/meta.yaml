@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Projects_for_Competitions_Companies/Nordeus_Data_Science_Challenge_2024/logs/1/7c4db639615e4fb7bb11ca9a5f67ab31/artifacts
+end_time: 1731862545259
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c4db639615e4fb7bb11ca9a5f67ab31
+run_name: Lasso_Regression
+run_uuid: 7c4db639615e4fb7bb11ca9a5f67ab31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731862536331
+status: 3
+tags: []
+user_id: User
